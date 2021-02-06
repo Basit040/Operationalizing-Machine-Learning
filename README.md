@@ -98,7 +98,5 @@ After the pipeline is published, we can use Published Pipeline Overview to see t
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+Video link for overall project steps is https://youtu.be/0G6tSAWmj4Q
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
