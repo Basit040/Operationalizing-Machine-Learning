@@ -100,3 +100,8 @@ After the pipeline is published, we can use Published Pipeline Overview to see t
 ## Screen Recording
 Video link for overall project steps is https://www.youtube.com/watch?v=iMcmhQGLPVY
 
+## Improvements/ Suggestions
+- Addition of model stacking and blending techniques in AutoML
+- Option to create multi layer deeplearning models
+- Imbalance issue of the dataset
+
