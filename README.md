@@ -98,5 +98,5 @@ After the pipeline is published, we can use Published Pipeline Overview to see t
 
 
 ## Screen Recording
-Video link for overall project steps is https://youtu.be/0G6tSAWmj4Q
+Video link for overall project steps is https://www.youtube.com/watch?v=iMcmhQGLPVY
 
